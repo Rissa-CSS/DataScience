@@ -5,7 +5,7 @@ This project uses the raw data and calculates the number of applicants and avera
 
 The questions to be answered are as follows:
 
-- What was the total number of applications received per month in 2019?
+* What was the total number of applications received per month in 2019?
 
 - Which months had the least and greatest number of total applications received?
 
