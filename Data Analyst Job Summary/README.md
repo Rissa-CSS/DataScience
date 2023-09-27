@@ -2,7 +2,7 @@
 
 ## Description
 
-Skill: Data Analysis
+**Skill: Data Analysis**
 
 This project uses the raw data and calculates the number of applicants and average number of applicants per month as well as the minimum and maximum month for applicants.
 
