@@ -2,7 +2,7 @@
 
 ## Description
 
-Skill: Data Visualization
+**Skill: Data Visualization**
 
 This project uses Tableau to create multiple visulaizations to graphically communicate information. Some of the visualizations include demographic and question response breakdowns.
 
