@@ -1,6 +1,9 @@
 # Data Analyst Jobs 2019
 
 ## Description
+
+Skill: Data Analysis
+
 This project uses the raw data and calculates the number of applicants and average number of applicants per month as well as the minimum and maximum month for applicants.
 
 The questions to be answered are as follows:
